@@ -2,6 +2,10 @@
 description 
 ###################
 
+Language - PHP
+
+Framework - Code igniter
+
 
 1.Create a component to consume weather API that takes location (zip/city) as input and returns the weather details for that location
 you can access the temerature of any city , just by changing the city name from the below url
@@ -21,5 +25,4 @@ Below URL will give UI view with some limited cities in dropdown
     http://localhost/weather/
 
 
-Language:PHP
-Framework:Code Igniter
+
